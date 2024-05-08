@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpns5qj+MtT7th2MKEOW7FoGe9y1WmR47Z4Vc69B18M00EFjVQ2oQ0PBYOa4ha8plqrGNzPMZYGQ6l/x+bNbIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kage7\\Downloads\\LinqTasks\\LinqTasks\\LinqTutorials\\LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kage7\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kage7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kage7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kage7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
